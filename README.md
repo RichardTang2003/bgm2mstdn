@@ -116,7 +116,7 @@ node index.js
 💬 我的评论:
 [你在 Bangumi 上的评论内容]
 
-同步自 #Bangumi #番剧
+使用[自动化程序](https://github.com/RichardTang2003/bgm2mstdn)同步自 #Bangumi #番剧
 ```
 
 ## 文件说明

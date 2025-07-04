@@ -141,7 +141,7 @@ async function postToMastodon(item, mediaId) {
     if (item.comment) {
         statusText += `💬 我的评论:\n${item.comment}\n\n`;
     }
-    statusText += `同步自 #Bangumi #番剧`;
+    statusText += `使用[自动化程序](https://github.com/RichardTang2003/bgm2mstdn)同步自 #Bangumi #番剧`;
 
     try {
         const postData = {
